@@ -5,3 +5,4 @@ The 'SkillSetNLP' file uses NLP to predict if a candidate is likely to be select
 The 'SkillSet LogRegression' file uses logistic regression to classify each candidate as selected or rejected on the basis of their skills.
 'Dataset for Interns' is  csv file with all the data.
 Each notebook has markdowns explaining each line of code.
+The NLP model offers a better accuracy than the Logistic classification model.
